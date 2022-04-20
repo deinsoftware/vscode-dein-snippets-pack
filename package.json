@@ -1,0 +1,45 @@
+{
+  "name": "dein-snippets-pack",
+  "description": "VS Code dein Snippets collection for JS and TS",
+  "version": "1.0.0",
+  "displayName": "dein Snippets Pack",
+  "publisher": "deinsoftware",
+  "icon": "images/light-icon.png",
+  "keywords": [
+    "variables",
+    "constantes",
+    "object-literal",
+    "json",
+    "destructuring",
+    "arrow-function",
+    "snippets",
+    "javascript",
+    "typescript",
+    "react",
+    "vue"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deinsoftware/vscode-dein-snippets-pack"
+  },
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "categories": [
+    "Snippets",
+    "Extension Packs"
+  ],
+  "main": "./out/extension.js",
+  "browser": "./out/extension.js",
+  "extensionKind": [],
+  "activationEvents": [],
+  "extensionPack": [
+    "deinsoftware.const-props-snippets",
+    "deinsoftware.arrow-function-snippets"
+  ],
+  "volta": {
+    "node": "16.13.1",
+    "npm": "8.1.2"
+  }
+}
