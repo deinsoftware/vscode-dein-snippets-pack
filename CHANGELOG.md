@@ -9,6 +9,12 @@ Fixed       for any bug fixes.
 Security    to invite users to upgrade in case of vulnerabilities.
 -->
 
+## [1.1.1] - 2022/04/21
+
+### Fixed
+
+- pack icons
+
 ## [1.1.0] - 2022/04/21
 
 ## Changed
@@ -17,7 +23,7 @@ Security    to invite users to upgrade in case of vulnerabilities.
 
 ### Fixed
 
-- previw images
+- preview images
 
 ## [1.0.0] - 2022/04/20
 
