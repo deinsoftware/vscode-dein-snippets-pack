@@ -1,6 +1,6 @@
 # dein Snippets Pack
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/deinsoftware.dein-snippets-pack.svg?color=blue)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack)
+[![Version](https://vsmarketplacebadge.apphb.com/version/deinsoftware.dein-snippets-pack.svg?color=blue&label=version)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.dein-snippets-pack.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack)
 [![Ratings](https://vsmarketplacebadge.apphb.com/rating/deinsoftware.dein-snippets-pack.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack)
 [![license](https://img.shields.io/github/license/deinsoftware/vscode-dein-snippets-pack)](LICENSE.md)
