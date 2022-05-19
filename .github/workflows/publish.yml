@@ -14,9 +14,9 @@ jobs:
       - uses: Eomm/why-don-t-you-tweet@v1
         if: ${{ !github.event.repository.private }}
         with:
-          tweet-message: "Snippets pack for @code with #ArrowFunctionsSnippets and #ConsPropsSnippets ${{ github.event.release.tag_name }} 🐛🔨 is here 🥳\n\n
+          tweet-message: "Snippets pack for @code with #ArrowFunction and #ConsProps ${{ github.event.release.tag_name }} 🐛🔨 is here 🥳\n\n
           $ ext install deinsoftware.dein-snippets-pack\n\n
-          #vscode #snippets #javascript #typescript #react #vuejs #json #arrowfunction\n\n
+          #vscode #snippets #javascript #typescript #react #vuejs #json\n\n
           https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack"
         env:
           TWITTER_CONSUMER_API_KEY: ${{ secrets.TWITTER_CONSUMER_API_KEY }}
