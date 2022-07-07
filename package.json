@@ -1,7 +1,7 @@
 {
   "name": "dein-snippets-pack",
   "description": "VS Code dein Snippets collection for JS and TS",
-  "version": "1.5.1",
+  "version": "2.0.0",
   "displayName": "dein Snippets Pack",
   "publisher": "deinsoftware",
   "icon": "images/light-icon.png",
@@ -38,6 +38,7 @@
   "extensionKind": [],
   "activationEvents": [],
   "extensionPack": [
+    "deinsoftware.debug-snippets",
     "deinsoftware.const-props-snippets",
     "deinsoftware.arrow-function-snippets"
   ],

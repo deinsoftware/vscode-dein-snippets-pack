@@ -47,6 +47,7 @@ Open the extension manager with <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>X</kbd> (W
 
 ## Extensions Included
 
+- [Debug Snippets](https://marketplace.visualstudio.com/items?itemName=deinsoftware.debug-snippets)
 - [Const & Props Snippets](https://marketplace.visualstudio.com/items?itemName=deinsoftware.const-props-snippets)
 - [Arrow Function Snippets](https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets)
 
