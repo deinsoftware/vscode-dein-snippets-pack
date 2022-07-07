@@ -1,7 +1,7 @@
 {
   "name": "dein-snippets-pack",
   "description": "VS Code dein Snippets collection for JS and TS",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "displayName": "dein Snippets Pack",
   "publisher": "deinsoftware",
   "icon": "images/light-icon.png",

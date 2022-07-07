@@ -8,8 +8,6 @@
 
 ![dein](https://raw.githubusercontent.com/deinsoftware/vscode-dein-snippets-pack/main/.github/social/preview.png 'dein Snippets')
 
-The quick and easy way to create and use Const, Props and [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions) with [VS Code](https://code.visualstudio.com/).
-
 ## Menu
 
 - [Installation](#installation)
