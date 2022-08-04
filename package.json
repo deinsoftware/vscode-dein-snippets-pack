@@ -43,7 +43,7 @@
     "deinsoftware.arrow-function-snippets"
   ],
   "volta": {
-    "node": "16.13.1",
-    "npm": "8.1.2"
+    "node": "18.7.0",
+    "npm": "8.15.0"
   }
 }
