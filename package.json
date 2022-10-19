@@ -33,8 +33,8 @@
     "Snippets",
     "Extension Packs"
   ],
-  "main": "./out/extension.js",
-  "browser": "./out/extension.js",
+  "main": "./build/extension.js",
+  "browser": "./build/extension.js",
   "extensionKind": [],
   "activationEvents": [],
   "extensionPack": [
