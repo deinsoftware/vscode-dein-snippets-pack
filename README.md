@@ -1,8 +1,8 @@
 # dein Snippets Pack
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/deinsoftware.dein-snippets-pack.svg?color=blue&label=version)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/deinsoftware.dein-snippets-pack.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack)
-[![Ratings](https://vsmarketplacebadge.apphb.com/rating/deinsoftware.dein-snippets-pack.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack)
+[![Version](https://vsmarketplacebadges.dev/version/deinsoftware.dein-snippets-pack.svg?color=blue&label=version)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack)
+[![Installs](https://vsmarketplacebadges.dev/installs/deinsoftware.dein-snippets-pack.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack)
+[![Ratings](https://vsmarketplacebadges.dev/rating-star/deinsoftware.dein-snippets-pack.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.dein-snippets-pack)
 [![license](https://img.shields.io/github/license/deinsoftware/vscode-dein-snippets-pack)](LICENSE.md)
 [![Open in VS Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/deinsoftware/vscode-dein-snippets-pack)
 
