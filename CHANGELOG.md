@@ -9,11 +9,11 @@ Fixed       for any bug fixes.
 Security    to invite users to upgrade in case of vulnerabilities.
 -->
 
-## 2.0.2 - 2022/12/11
+## [2.0.2] - 2022/12/11
 
 ### Fixed
 
-- Marketplace badges url using [VSMarketplaceBadges](https://vsmarketplacebadges.dev/)
+- Badges using [shields.io](https://shields.io/) badges for visual studio marketplace
 
 ## [2.0.1] - 2022/07/06
 
