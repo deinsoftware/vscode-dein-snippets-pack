@@ -1,7 +1,7 @@
 {
   "name": "dein-snippets-pack",
   "description": "VS Code dein Snippets collection for JS and TS",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "displayName": "dein Snippets Pack",
   "publisher": "deinsoftware",
   "icon": "images/light-icon.png",
@@ -24,7 +24,7 @@
     "url": "https://github.com/deinsoftware/vscode-dein-snippets-pack"
   },
   "sponsor": {
-    "url": "https://ko-fi.com/equiman"
+    "url": "https://github.com/sponsors/deinsoftware"
   },
   "engines": {
     "vscode": "^1.58.0"
