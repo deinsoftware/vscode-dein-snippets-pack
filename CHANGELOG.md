@@ -9,67 +9,73 @@ Fixed       for any bug fixes.
 Security    to invite users to upgrade in case of vulnerabilities.
 -->
 
-## [2.0.2] - 2022/12/11
+## 2.0.3 - 2022/12/14
+
+### Fixed
+
+- Sponsors url
+
+## 2.0.2 - 2022/12/14
 
 ### Fixed
 
 - Badges using [shields.io](https://shields.io/) badges for visual studio marketplace
 
-## [2.0.1] - 2022/07/06
+## 2.0.1 - 2022/07/06
 
 ### Fixed
 
 - Remove information from README
 
-## [2.0.0] - 2022/07/06
+## 2.0.0 - 2022/07/06
 
 ### Added
 
 - Debug Snippets
 
-## [1.5.1] - 2022/06/23
+## 1.5.1 - 2022/06/23
 
 ### Fixed
 
 - Support property on README
 
-## [1.5.0] - 2022/06/23
+## 1.5.0 - 2022/06/23
 
 ### Added
 
 - Support property
 
-## [1.4.0] - 2022/05/19
+## 1.4.0 - 2022/05/19
 
 ### Changed
 
 - unifying image
 
-## [1.3.0] - 2022/05/05
+## 1.3.0 - 2022/05/05
 
 ### Changed
 
 - pack icons
 
-## [1.2.0] - 2022/04/25
+## 1.2.0 - 2022/04/25
 
 ### Changed
 
 - pack icons
 
-## [1.1.2] - 2022/04/21
+## 1.1.2 - 2022/04/21
 
 ### Fixed
 
 - border pack icons
 
-## [1.1.1] - 2022/04/21
+## 1.1.1 - 2022/04/21
 
 ### Fixed
 
 - pack icons
 
-## [1.1.0] - 2022/04/21
+## 1.1.0 - 2022/04/21
 
 ## Changed
 
@@ -79,7 +85,7 @@ Security    to invite users to upgrade in case of vulnerabilities.
 
 - preview images
 
-## [1.0.0] - 2022/04/20
+## 1.0.0 - 2022/04/20
 
 ### Added
 
