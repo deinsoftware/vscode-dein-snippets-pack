@@ -15,6 +15,7 @@
   - [Extension Manager](#extension-manager)
   - [Marketplace](#marketplace)
 - [Extensions Included](#extensions-included)
+- [Settings](#settings)
 - [About](#about)
 
 ---
@@ -48,6 +49,18 @@ Open the extension manager with <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>X</kbd> (W
 - [Debug Snippets](https://marketplace.visualstudio.com/items?itemName=deinsoftware.debug-snippets)
 - [Const & Props Snippets](https://marketplace.visualstudio.com/items?itemName=deinsoftware.const-props-snippets)
 - [Arrow Function Snippets](https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets)
+
+⇧ [Back to menu](#menu)
+
+---
+
+## Settings
+
+The `editor.snippetSuggestions` setting in vscode `settings.json` will show snippets on top of the suggestion list.
+
+```json
+"editor.snippetSuggestions": "top"
+```
 
 ⇧ [Back to menu](#menu)
 
